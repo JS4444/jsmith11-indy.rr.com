@@ -1,0 +1,31 @@
+
+body {
+    background-color: #fcfcfc;
+background-image: url("https://www.transparenttextures.com/patterns/cartographer.png");
+/* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+}
+
+div {
+    background-color: darkslategray;
+    top: 0px;
+    width: auto;
+    Margin: auto;
+    text-align: center;
+}
+
+h4 {
+    color: seagreen;
+    text-align: center;
+}
+h1 {
+    color: white;
+    text-align: center;
+}
+
+#myImage {
+    width: 700px;
+    height:auto;
+}
+
+<-- use unsplash for free phots, down;load them and then save to the portfolio folder -->
+
